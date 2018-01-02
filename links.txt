@@ -1,0 +1,34 @@
+From "Programming Your GPU with OpenMP: A Hands-On Introduction" at SC'17:
+https://github.com/UoB-HPC/sc17-tutorial
+https://github.com/UoB-HPC/sc17-tutorial.git
+
+Another on GPUs (IBM Canada and U.Alberta), I think it looks good:
+https://people.engr.ncsu.edu/xshen5/cdp2016/slides/Tylor.pdf
+
+This one is also about GPU and Power8, "Application porting and optimization on GPU-accelerated POWER architectures" (SC16):
+https://indico-jsc.fz-juelich.de/event/24/other-view?view=standard
+
+NERSC OpenMP tutorial from SC (2017 includes Barbara):
+http://www.nersc.gov/assets/OMP-common-core-SC17.pdf
+http://www.nersc.gov/assets/Uploads/SC16-omp.pdf
+http://www.nersc.gov/users/software/programming-models/openmp/sc17-openmp/
+
+GPU + Power8 tutorial from SC17:
+https://indico-jsc.fz-juelich.de/event/53/contributions
+
+OpenMP tutorials for tasking:
+http://iwomp2016.riken.jp/wp-content/uploads/2016/10/OpenMP-Tasking.pdf
+http://openmpcon.org/wp-content/uploads/openmpcon2015-michael-klemm-tasking.pdf
+http://openmp.org/wp-content/uploads/sc13.tasking.ruud.pdf
+http://www.nersc.gov/users/software/programming-models/openmp/openmp-tasking/
+
+
+One rather old (from 2012, OpenMP 3.1?) from ICL UTK:
+http://www.netlib.org/utk/people/JackDongarra/WEB-PAGES/SPRING-2012/Lect08-OpenMP.pdf
+
+Another old one from Helen (2011):
+https://www.nersc.gov/assets/Uploads/XE62011OpenMP.pdf
+
+Git repo with many examples from many and I mean many languages, runtimes and programming models:
+https://github.com/ParRes/Kernels
+
